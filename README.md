@@ -15,6 +15,6 @@ Remove duplicate entries and fill in missing information.
 Use Excel functions to calculate key statistics, such as the total number of collisions, average severity, and frequency of accidents by day or month.
 Create pivot tables to analyze patterns and trends.
 
-#Graphs and Charts:
+# Graphs and Charts:
 Generate visual representations of the data using Excel charts and graphs.
 Consider bar charts for comparing accident frequency, pie charts for depicting the distribution of collision types, and line charts for showing trends over time.
